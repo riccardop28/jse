@@ -8,7 +8,7 @@ public class Exercise1 {
      * @return "positive", "negative", or "zero"
      */
     public static String checkSign(int value) {
-        // TODO
+        // TODO: still thinking about what to do actually...
         return "";
     }
 }
